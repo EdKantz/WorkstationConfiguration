@@ -27,9 +27,13 @@ C:\Users\[!!user]\Desktop\PortableSoftware\GeanyPortable\App\Geany64\data\filede
 
 ## New Color Scheme
 
-Portable setup
+Add new color scheme .conf file to the colorschemes folder
+Add customForMarkdown.conf
+
+Windows Portable setup
 C:\Users\[!!user]\Desktop\PortableSoftware\GeanyPortable\App\Geany64\data\colorschemes
 
-Add customForMarkdown.conf
+Mac
+/Users/ek/.config/geany/colorschemes/
 
 In Geany: View > Change Color scheme… and select the added colorscheme from the list
