@@ -1,0 +1,11 @@
+[info]
+title=Toggle Strike Line
+desc=Toggle strikethrough on the current line
+type=cudatext-plugin
+subdir=cuda_toggle_strike
+ver=0.0.1
+
+[item1]
+section=commands
+caption=Markdown\Toggle Strike Line
+method=toggle_strike_line

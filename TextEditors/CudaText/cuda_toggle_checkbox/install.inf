@@ -1,0 +1,11 @@
+[info]
+title=Toggle Checkbox Line
+desc=Toggle GFM task list checkbox on the current line
+type=cudatext-plugin
+subdir=cuda_toggle_checkbox
+ver=0.0.1
+
+[item1]
+section=commands
+caption=Markdown\Toggle Checkbox Line
+method=toggle_checkbox_line
